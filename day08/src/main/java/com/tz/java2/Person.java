@@ -1,0 +1,4 @@
+package com.tz.java2;
+
+public class Person {
+}
